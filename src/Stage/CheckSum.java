@@ -6,7 +6,7 @@ public class CheckSum {
 		int a[]={2, 3, 4, 5};
 		int target=9;
 		int abbbbb=3797;
-		int dlfhs=3876;
+		double dlfhs=38763.7668767869869696;
 		int count=0;
 		for(int i=0;i<a.length-1;i++){
 			int sum=target-a[i];
