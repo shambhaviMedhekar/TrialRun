@@ -7,6 +7,7 @@ public class CheckSum {
 		int target=9;
 		int abbbbb=3797;
 		double dlfhs=38763.7668767869869696;
+		double gg=228288282.22;
 		int count=0;
 		for(int i=0;i<a.length-1;i++){
 			int sum=target-a[i];
