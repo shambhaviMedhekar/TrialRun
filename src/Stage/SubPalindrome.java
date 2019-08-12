@@ -6,6 +6,8 @@ public class SubPalindrome {
 		String value="bacadacxbzzzz";
 		int left=0,right=value.length()-1;
 		int start=0,end=value.length()-1;
+		int abc=0;
+		int aaaa=73279;
 		while(left<right) {
 			if(value.charAt(left)!=value.charAt(right)) {
 				left++;
